@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "网易云音乐",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "musichead": "/components/musichead/musichead",
+    "m-for-skeleton": "/components/m-for-skeleton/m-for-skeleton"
+  }
+}

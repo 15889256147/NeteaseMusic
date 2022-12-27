@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "musichead": "/components/musichead/musichead",
+    "easy-loadimage": "/components/easy-loadimage/easy-loadimage"
+  }
+}
